@@ -1,4 +1,8 @@
-# 0.10 (Unreleased)
+# 0.9.3
+ - Update dependencies ([\#29](https://github.com/haidaraM/ansible-playbook-grapher/pull/29))
+ - Make sure that an element exists before assigning it ([\#26](https://github.com/haidaraM/ansible-playbook-grapher/pull/26))
+
+# 0.9.2
  - Add support for Ansible 2.9 ([\#25](https://github.com/haidaraM/ansible-playbook-grapher/pull/25))
 
 # 0.9.1
